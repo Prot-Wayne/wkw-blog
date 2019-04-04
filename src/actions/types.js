@@ -1,0 +1,15 @@
+export const GET_CATEGORIES = 'GET_CATEGORIES'
+export const ADD_CATEGORY = 'ADD_CATEGORY'
+export const CATEGORY_ERROR = 'CATEGORY_ERROR'
+
+export const GET_POSTS = 'GET_POSTS'
+export const ADD_POST = 'ADD_POST'
+
+export const ADD_USER = 'ADD_USER'
+export const LOGIN = 'LOGIN'
+export const LOGIN_ERROR = 'LOGIN_ERROR'
+export const LOG_OUT = 'LOG_OUT'
+
+export const GET_VIDEOCOMMENTS = 'GET_VIDEOCOMMENTS'
+export const ADD_VIDEOCOMMENT = 'ADD_VIDEOCOMMENT'
+export const ADD_VIDEOCOMMENT_ERROR= 'ADD_VIDEOCOMMENT_ERROR'
